@@ -1,1 +1,1 @@
-Exercism.org solutions
+Solutions for Exercism.org coding challenges
